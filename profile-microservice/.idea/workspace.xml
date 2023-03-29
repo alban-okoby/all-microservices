@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b4e9c0c-7d81-43d6-824d-108d1f2de260" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/microservice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice/src/main/java/com/digitalsouag/microservice/RacineMicroserviceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice/src/test/java/com/digitalsouag/microservice/RacineMicroserviceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-config/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-config/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-config/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-config/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-config/src/main/java/com/digitalsouag/serverconfig/ServerConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-config/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-config/src/test/java/com/digitalsouag/serverconfig/ServerConfigApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-discovery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-discovery/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-discovery/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-discovery/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-discovery/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-discovery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-discovery/src/main/java/com/digitalsouag/serverdiscovery/ServerDiscoveryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-discovery/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-discovery/src/test/java/com/digitalsouag/serverdiscovery/ServerDiscoveryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-managment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-managment/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-managment/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-managment/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-managment/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-managment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-managment/src/main/java/com/digitalsouag/usermanagment/UserManagmentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-managment/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-managment/src/test/java/com/digitalsouag/usermanagment/UserManagmentApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NQ9UPNyE4EtSEEk39iVjx0bdBj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b4e9c0c-7d81-43d6-824d-108d1f2de260" name="Default Changelist" comment="" />
+      <created>1679585454118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679585454118</updated>
+      <workItem from="1679585470865" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
